@@ -130,6 +130,7 @@ main {
     background-image: url(../img/box/5.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box2 {
@@ -138,6 +139,7 @@ main {
     background-image: url(../img/box/6.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box3 {
@@ -146,6 +148,7 @@ main {
     background-image: url(../img/box/4.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box4 {
@@ -154,6 +157,7 @@ main {
     background-image: url(../img/box/1.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box5 {
@@ -162,6 +166,7 @@ main {
     background-image: url(../img/box/3.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .box6 {
@@ -170,6 +175,7 @@ main {
     background-image: url(../img/box/2.jpg);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #text {
