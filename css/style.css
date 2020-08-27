@@ -122,6 +122,7 @@ main {
 
 .container-gallery>div {
     background-color: #f1f1f1;
+    cursor: pointer;
 }
 
 .box1 {
